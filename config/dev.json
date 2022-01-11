@@ -1,0 +1,6 @@
+{
+  "accessTokenUrl": "https://home.mozu.com/api/platform/applications/authtickets/oauth",
+  "clientId": "HomeH.adminUserConn.1.0.0.Release",
+  "sharedSecret": "3b312ae84adb41958875528cf3aca38b",
+  "apiHost": "https://t26797-s46458.sandbox.mozu.com"
+}
